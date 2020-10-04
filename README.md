@@ -15,6 +15,8 @@ Specifically, to submit your project you will be required to complete the follow
 
 [California Wildfire Dashboard](https://public.tableau.com/profile/ivvone#!/vizhome/AirPollutantsinCalifornia2020/Dashboard1) 
 
+[Charlotte, NC Dashboard](https://public.tableau.com/profile/haritha.mohan#!/vizhome/AirPollutionCDC/Dashboard1) 
+
 ---
 
 If you have any questions during the, either technical or logistical, be sure to reach out to a mentor and/or a director for assistance!
