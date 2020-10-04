@@ -1,0 +1,237 @@
+﻿country,state,city,utc,parameter,value,unit,latitude,longitude,attribution
+US,Alabama,Montgomery,2018-10-02T21:00:00Z,pm25,6,µg/m,35.263165,-79.836636,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""North Carolina DEQ - Division of Air Quality""}]"
+US,Alabama,Montgomery,2019-10-01T12:00:00Z,pm25,13,µg/m,35.263165,-79.836636,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""North Carolina DEQ - Division of Air Quality""}]"
+US,Alabama,Montgomery,2020-10-01T19:00:00Z,pm25,7,µg/m,35.263165,-79.836636,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""North Carolina DEQ - Division of Air Quality""}]"
+US,Arizona,Phoenix,2018-10-02T19:00:00Z,pm25,4.5,µg/m,33.4033,-112.0731,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maricopa County"
+US,Arizona,Phoenix,2019-10-02T03:00:00Z,pm25,6.5,µg/m,33.4033,-112.0731,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maricopa County"
+US,Arizona,Phoenix,2020-10-02T02:00:00Z,pm25,12.7,µg/m,33.4033,-112.0731,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maricopa County"
+US,Arkansas,Little Rock,2018-10-03T11:00:00Z,pm25,7.8,µg/m,34.6811,-92.3283,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Arkansas"
+US,Arkansas,Little Rock,2019-10-02T14:00:00Z,pm25,10.8,µg/m,34.6811,-92.3283,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Arkansas"
+US,Arkansas,Little Rock,2020-10-02T02:00:00Z,pm25,7.1,µg/m,34.6811,-92.3283,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Arkansas"
+US,California,Los Angeles,2018-10-03T04:00:00Z,pm25,7.8,µg/m,33.830586,-117.938509,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Coast"
+US,California,Los Angeles,2019-10-02T16:00:00Z,pm25,10.6,µg/m,33.830586,-117.938509,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Coast"
+US,California,Los Angeles,2020-10-03T04:00:00Z,pm25,24.4,µg/m,33.830586,-117.938509,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Coast"
+US,Colorado,Denver,2018-10-02T10:00:00Z,pm25,8.5,µg/m,39.785622,-104.988469,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Colorado"
+US,Colorado,Denver,2019-10-02T15:00:00Z,pm25,6.5,µg/m,39.785622,-104.988469,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Colorado"
+US,Colorado,Denver,2020-10-02T04:00:00Z,pm25,17.5,µg/m,39.785622,-104.988469,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Colorado"
+US,Connecticut,New Haven,2018-10-02T19:00:00Z,pm25,7.9,µg/m,41.301288,-72.902685,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Connecticut Dept. of Energy and Environmental Protection""}]"
+US,Connecticut,New Haven,2019-10-02T08:00:00Z,pm25,10.3,µg/m,41.301288,-72.902685,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Connecticut Dept. of Energy and Environmental Protection""}]"
+US,Connecticut,New Haven,2020-10-02T04:00:00Z,pm25,7.8,µg/m,41.301288,-72.902685,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Connecticut Dept. of Energy and Environmental Protection""}]"
+US,Delaware,Dover,2018-10-02T11:00:00Z,pm25,10.6,µg/m,38.9847,-75.5556,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Delaware Dept. of Natural Resources and Environment""}]"
+US,Delaware,Dover,2019-10-02T01:00:00Z,pm25,9,µg/m,38.9847,-75.5556,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Delaware Dept. of Natural Resources and Environment""}]"
+US,Delaware,Dover,2020-09-29T21:00:00Z,pm25,5,µg/m,38.9847,-75.5556,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Delaware Dept. of Natural Resources and Environment""}]"
+US,Florida,Jacksonville,2018-10-02T08:00:00Z,pm25,7.4,µg/m,30.2603,-81.4533,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""City of Jacksonville - Environmental Quality Division""}]"
+US,Florida,Jacksonville,2019-10-02T07:00:00Z,pm25,4.7,µg/m,30.2603,-81.4533,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""City of Jacksonville - Environmental Quality Division""}]"
+US,Florida,Jacksonville,2020-10-02T04:00:00Z,pm25,15.1,µg/m,30.2603,-81.4533,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""City of Jacksonville - Environmental Quality Division""}]"
+US,Georgia,Atlanta,2019-02-16T20:00:00Z,pm25,10.1,µg/m,33.9636,-84.0664,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Georgia Department of Natural Resources""}]"
+US,Georgia,Atlanta,2019-10-02T01:00:00Z,pm25,15.8,µg/m,33.9636,-84.0664,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Georgia Department of Natural Resources""}]"
+US,Georgia,Atlanta,2020-10-02T04:00:00Z,pm25,4.2,µg/m,33.9636,-84.0664,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Georgia Department of Natural Resources""}]"
+US,Idaho,Boise,2018-10-02T11:00:00Z,pm25,5,µg/m,43.823017,-115.838557,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Idaho Department of Environmental Quality""}]"
+US,Idaho,Boise,2019-10-02T08:00:00Z,pm25,6,µg/m,43.823017,-115.838557,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Idaho Department of Environmental Quality""}]"
+US,Idaho,Boise,2020-10-01T10:00:00Z,pm25,3,µg/m,43.823017,-115.838557,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Idaho Department of Environmental Quality""}]"
+US,Illinois,Chicago,2018-10-02T14:00:00Z,pm25,8.8,µg/m,41.7714,-88.1522,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Illinois EPA""}]"
+US,Illinois,Chicago,2019-10-03T01:00:00Z,pm25,7.1,µg/m,41.7714,-88.1522,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Illinois EPA""}]"
+US,Illinois,Chicago,2020-10-02T01:00:00Z,pm25,6.6,µg/m,41.7714,-88.1522,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Illinois EPA""}]"
+US,Indiana,Indianapolis,2018-10-02T08:00:00Z,pm25,8.5,µg/m,39.7889,-86.2147,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Indiana Dept. of Environmental Management""}]"
+US,Indiana,Indianapolis,2019-10-02T07:00:00Z,pm25,21.4,µg/m,39.7889,-86.2147,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Indiana Dept. of Environmental Management""}]"
+US,Indiana,Indianapolis,2020-10-02T04:00:00Z,pm25,4.7,µg/m,39.7889,-86.2147,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Indiana Dept. of Environmental Management""}]"
+US,Iowa,Iowa City,2018-10-02T19:00:00Z,pm25,2,µg/m,41.658195,-91.503471,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Iowa DNR""}]"
+US,Iowa,Iowa City,2019-10-02T19:00:00Z,pm25,2.8,µg/m,41.658195,-91.503471,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Iowa DNR""}]"
+US,Iowa,Iowa City,2020-10-02T04:00:00Z,pm25,3.5,µg/m,41.658195,-91.503471,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Iowa DNR""}]"
+US,Kansas,Kansas City,2018-10-02T14:00:00Z,pm25,12.7,µg/m,38.8386,-94.6356,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Kansas Dept. of Health and Environment""}]"
+US,Kansas,Kansas City,2019-10-02T14:00:00Z,pm25,10.1,µg/m,38.8386,-94.6356,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Kansas Dept. of Health and Environment""}]"
+US,Kansas,Kansas City,2020-10-01T20:00:00Z,pm25,3.1,µg/m,38.8386,-94.6356,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Kansas Dept. of Health and Environment""}]"
+US,Kentucky,Lexington,2018-10-02T14:00:00Z,pm25,10.4,µg/m,38.065,-84.5,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Kentucky DEP""}]"
+US,Kentucky,Lexington,2019-10-02T07:00:00Z,pm25,13.6,µg/m,38.065,-84.5,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Kentucky DEP""}]"
+US,Kentucky,Lexington,2020-10-02T04:00:00Z,pm25,3.4,µg/m,38.065,-84.5,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Kentucky DEP""}]"
+US,Louisiana,New Orleans,2018-10-02T15:00:00Z,pm25,17.7,µg/m,29.9431,-89.9761,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Louisiana Department of Environmental Quality""}]"
+US,Louisiana,New Orleans,2019-10-02T19:00:00Z,pm25,17.5,µg/m,29.9431,-89.9761,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Louisiana Department of Environmental Quality""}]"
+US,Louisiana,New Orleans,2020-09-29T18:00:00Z,pm25,4.8,µg/m,29.9431,-89.9761,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Louisiana Department of Environmental Quality""}]"
+US,Maine,Portland,2018-10-02T09:00:00Z,pm25,5,µg/m,43.660248,-70.268967,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maine Dept. of Environmental Protection""}]"
+US,Maine,Portland,2019-10-03T03:00:00Z,pm25,5,µg/m,43.660248,-70.268967,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maine Dept. of Environmental Protection""}]"
+US,Maine,Portland,2020-10-02T04:00:00Z,pm25,11,µg/m,43.660248,-70.268967,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maine Dept. of Environmental Protection""}]"
+US,Maryland,Baltimore,2018-10-02T05:00:00Z,pm25,6,µg/m,39.41,-76.2967,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maryland Department of the Environment""}]"
+US,Maryland,Baltimore,2019-10-02T02:00:00Z,pm25,5,µg/m,39.41,-76.2967,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maryland Department of the Environment""}]"
+US,Maryland,Baltimore,2020-10-01T22:00:00Z,pm25,7,µg/m,39.41,-76.2967,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Maryland Department of the Environment""}]"
+US,Massachusetts,Boston,2018-10-02T16:00:00Z,pm25,5.8,µg/m,43.075371,-70.748017,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Hampshire"
+US,Massachusetts,Boston,2019-10-02T20:00:00Z,pm25,4.6,µg/m,43.075371,-70.748017,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Hampshire"
+US,Massachusetts,Boston,2020-10-02T04:00:00Z,pm25,10.5,µg/m,43.075371,-70.748017,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Hampshire"
+US,Michigan,Detroit,2018-11-21T07:00:00Z,pm25,16.9,µg/m,42.312158,-83.091943,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Michigan"
+US,Michigan,Detroit,2019-10-02T23:00:00Z,pm25,5.6,µg/m,42.312158,-83.091943,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Michigan"
+US,Michigan,Detroit,2020-10-02T00:00:00Z,pm25,2.2,µg/m,42.312158,-83.091943,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Michigan"
+US,Minnesota,Minneapolis,2018-10-02T10:00:00Z,pm25,3,µg/m,44.7383,-93.2372,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Minnesota"
+US,Minnesota,Minneapolis,2019-10-02T13:00:00Z,pm25,3,µg/m,44.7383,-93.2372,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Minnesota"
+US,Minnesota,Minneapolis,2020-10-02T04:00:00Z,pm25,4,µg/m,44.7383,-93.2372,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Minnesota"
+US,Mississippi,Jackson,2018-10-02T19:00:00Z,pm25,12.1,µg/m,42.1941,-122.7086,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oregon Dept. of Environmental Quality""}]"
+US,Mississippi,Jackson,2019-10-02T10:00:00Z,pm25,7.8,µg/m,42.1941,-122.7086,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oregon Dept. of Environmental Quality""}]"
+US,Mississippi,Jackson,2020-10-02T04:00:00Z,pm25,19.1,µg/m,42.1941,-122.7086,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oregon Dept. of Environmental Quality""}]"
+US,Missouri,St. Louis,2018-10-02T19:00:00Z,pm25,9.3,µg/m,38.65643,-90.18977,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Missouri Department of Natural Resources""}]"
+US,Missouri,St. Louis,2019-10-03T04:00:00Z,pm25,9.1,µg/m,38.65643,-90.18977,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Missouri Department of Natural Resources""}]"
+US,Missouri,St. Louis,2020-10-02T04:00:00Z,pm25,4.8,µg/m,38.65643,-90.18977,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Missouri Department of Natural Resources""}]"
+US,Montana,Helena,2018-10-02T11:00:00Z,pm25,6.1,µg/m,46.6588,-112.0131,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Montana DEQ""}]"
+US,Montana,Helena,2019-10-02T17:00:00Z,pm25,12.3,µg/m,46.6588,-112.0131,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Montana DEQ""}]"
+US,Montana,Helena,2020-10-02T04:00:00Z,pm25,8.4,µg/m,46.6588,-112.0131,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Montana DEQ""}]"
+US,Nebraska,Omaha,2018-10-02T08:00:00Z,pm25,4.8,µg/m,41.2474,-95.9731,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Montana DEQ""}]"
+US,Nebraska,Omaha,2019-10-02T22:00:00Z,pm25,5.5,µg/m,41.2474,-95.9731,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Montana DEQ""}]"
+US,Nebraska,Omaha,2020-10-02T02:00:00Z,pm25,6,µg/m,41.2474,-95.9731,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Montana DEQ""}]"
+US,Nevada,Las Vegas,2018-10-02T15:00:00Z,pm25,3.9,µg/m,36.048705,-115.052942,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Clark County Department of Environment and Sustainability""}]"
+US,Nevada,Las Vegas,2019-10-02T15:00:00Z,pm25,6,µg/m,36.048705,-115.052942,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Clark County Department of Environment and Sustainability""}]"
+US,Nevada,Las Vegas,2020-10-02T03:00:00Z,pm25,7.2,µg/m,36.048705,-115.052942,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Clark County Department of Environment and Sustainability""}]"
+US,New Hampshire,Manchester,2018-10-03T17:00:00Z,pm25,6,µg/m,42.86183,-71.878626,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Hampshire Dept. of Environmental Services""}]"
+US,New Hampshire,Manchester,2019-10-03T03:00:00Z,pm25,2,µg/m,42.86183,-71.878626,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Hampshire Dept. of Environmental Services""}]"
+US,New Hampshire,Manchester,2020-10-01T18:00:00Z,pm25,4.8,µg/m,42.86183,-71.878626,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Hampshire Dept. of Environmental Services""}]"
+US,New Jersey,Trenton,2018-10-02T09:00:00Z,pm25,10.5,µg/m,40.283092,-74.742645,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Jersey Dept. of Environmental Protection""}]"
+US,New Jersey,Trenton,2019-10-02T22:00:00Z,pm25,15.8,µg/m,40.283092,-74.742645,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Jersey Dept. of Environmental Protection""}]"
+US,New Jersey,Trenton,2020-10-02T04:00:00Z,pm25,7.6,µg/m,40.283092,-74.742645,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Jersey Dept. of Environmental Protection""}]"
+US,New Mexico,Santa Fe,2018-10-02T08:00:00Z,pm25,2,µg/m,35.6198,-106.0797,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Mexico Air Quality Bureau""}]"
+US,New Mexico,Santa Fe,2019-10-03T04:00:00Z,pm25,3,µg/m,35.6198,-106.0797,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Mexico Air Quality Bureau""}]"
+US,New Mexico,Santa Fe,2020-10-02T03:00:00Z,pm25,7,µg/m,35.6198,-106.0797,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Mexico Air Quality Bureau""}]"
+US,New York,New York,2018-10-20T10:00:00Z,pm25,7.9,µg/m,40.7375,-73.8244,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New York Dept. of"
+US,New York,New York,2019-10-02T18:00:00Z,pm25,13.6,µg/m,40.7375,-73.8244,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New York Dept. of"
+US,New York,New York,2020-10-02T04:00:00Z,pm25,7.2,µg/m,40.7375,-73.8244,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New York Dept. of"
+US,North Carolina,Charlotte,2018-10-03T05:00:00Z,pm25,14,µg/m,35.213171,-80.874084,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Mecklenburg County Air Quality""}]"
+US,North Carolina,Charlotte,2019-10-02T18:00:00Z,pm25,14,µg/m,35.213171,-80.874084,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Mecklenburg County Air Quality""}]"
+US,North Carolina,Charlotte,2020-10-03T03:00:00Z,pm25,10,µg/m,35.213171,-80.874084,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Mecklenburg County Air Quality""}]"
+US,North Dakota,,,,,,,,
+US,Ohio,Cleveland,2018-10-02T09:00:00Z,pm25,7.6,µg/m,33.750833,-90.734167,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Ohio DEQ""}]"
+US,Ohio,Cleveland,2019-10-02T06:00:00Z,pm25,15.3,µg/m,33.750833,-90.734167,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Ohio DEQ""}]"
+US,Ohio,Cleveland,2020-10-02T03:00:00Z,pm25,9.7,µg/m,33.750833,-90.734167,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Ohio DEQ""}]"
+US,Oklahoma,Oklahoma City,2018-10-02T06:00:00Z,pm25,7.4,µg/m,35.32,-97.4883,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oklahoma Department of Environmental Quality""}]"
+US,Oklahoma,Oklahoma City,2019-10-02T14:00:00Z,pm25,10,µg/m,35.32,-97.4883,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oklahoma Department of Environmental Quality""}]"
+US,Oklahoma,Oklahoma City,2020-10-02T04:00:00Z,pm25,6.5,µg/m,35.32,-97.4883,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oklahoma Department of Environmental Quality""}]"
+US,Oregon,Portland,2018-10-03T00:00:00Z,pm25,2.8,µg/m,45.4702,-122.8159,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oregon Dept. of Environmental Quality""}]"
+US,Oregon,Portland,2019-10-02T17:00:00Z,pm25,3.9,µg/m,45.4702,-122.8159,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oregon Dept. of Environmental Quality""}]"
+US,Oregon,Portland,2020-10-01T17:00:00Z,pm25,15.4,µg/m,45.4702,-122.8159,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Oregon Dept. of Environmental Quality""}]"
+US,Pennsylvania,Philadelphia,2018-10-02T10:00:00Z,pm25,8.9,µg/m,39.991389,-75.080833,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Philadelphia Air Management Services""}]"
+US,Pennsylvania,Philadelphia,2019-09-29T21:00:00Z,pm25,6.9,µg/m,39.991389,-75.080833,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Philadelphia Air Management Services""}]"
+US,Pennsylvania,Philadelphia,2020-09-29T16:00:00Z,pm25,11.8,µg/m,39.991389,-75.080833,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Philadelphia Air Management Services""}]"
+US,Rhode Island,Providence,2018-10-02T23:00:00Z,pm25,6,µg/m,41.840302,-71.361702,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Rhode Island Dept. of Environmental Management""}]"
+US,Rhode Island,Providence,2019-10-02T10:00:00Z,pm25,11,µg/m,41.840302,-71.361702,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Rhode Island Dept. of Environmental Management""}]"
+US,Rhode Island,Providence,2020-10-02T04:00:00Z,pm25,6,µg/m,41.840302,-71.361702,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Rhode Island Dept. of Environmental Management""}]"
+US,South Carolina,Charleston,2018-10-03T17:00:00Z,pm25,6.6,µg/m,32.941002,-79.656998,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Carolina DHEC""}]"
+US,South Carolina,Charleston,2019-10-03T00:00:00Z,pm25,8.1,µg/m,32.941002,-79.656998,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Carolina DHEC""}]"
+US,South Carolina,Charleston,2020-10-02T03:00:00Z,pm25,3.9,µg/m,32.941002,-79.656998,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Carolina DHEC""}]"
+US,South Dakota,Rapid City,2018-10-02T18:00:00Z,pm25,5.7,µg/m,44.087397,-103.273777,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Dakota Department of Environment and Natural Resources""}]"
+US,South Dakota,Rapid City,2019-10-02T04:00:00Z,pm25,6.3,µg/m,44.087397,-103.273777,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Dakota Department of Environment and Natural Resources""}]"
+US,South Dakota,Rapid City,2020-10-02T03:00:00Z,pm25,5.6,µg/m,44.087397,-103.273777,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""South Dakota Department of Environment and Natural Resources""}]"
+US,Tennessee,Nashville,2018-10-02T09:00:00Z,pm25,9.9,µg/m,40.924606,-75.067825,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Jersey Dept. of Environmental Protection""}]"
+US,Tennessee,Nashville,2019-10-02T11:00:00Z,pm25,13.2,µg/m,40.924606,-75.067825,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Jersey Dept. of Environmental Protection""}]"
+US,Tennessee,Nashville,2020-10-02T03:00:00Z,pm25,3.7,µg/m,40.924606,-75.067825,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""New Jersey Dept. of Environmental Protection""}]"
+US,Texas,Dallas,2018-10-02T16:00:00Z,pm25,7.8,µg/m,32.565,-96.3175,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Texas Commission on Environmental Quality""}]"
+US,Texas,Dallas,2019-10-02T13:00:00Z,pm25,14.4,µg/m,32.565,-96.3175,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Texas Commission on Environmental Quality""}]"
+US,Texas,Dallas,2020-10-02T04:00:00Z,pm25,5.1,µg/m,32.565,-96.3175,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Texas Commission on Environmental Quality""}]"
+US,Utah,Salt Lake City,2018-10-02T14:00:00Z,pm25,5.2,µg/m,40.733501,-111.871696,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Utah Department of Environmental Quality""}]"
+US,Utah,Salt Lake City,2019-10-02T23:00:00Z,pm25,2.2,µg/m,40.733501,-111.871696,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Utah Department of Environmental Quality""}]"
+US,Utah,Salt Lake City,2020-10-01T18:00:00Z,pm25,5.3,µg/m,40.733501,-111.871696,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Utah Department of Environmental Quality""}]"
+US,Vermont,Burlington,2018-10-02T05:00:00Z,pm25,6.5,µg/m,44.476101,-73.210297,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Vermont Air Quality & Climate Division""}]"
+US,Vermont,Burlington,2019-10-02T02:00:00Z,pm25,8.5,µg/m,44.476101,-73.210297,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Vermont Air Quality & Climate Division""}]"
+US,Vermont,Burlington,2020-10-02T04:00:00Z,pm25,4.7,µg/m,44.476101,-73.210297,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Vermont Air Quality & Climate Division""}]"
+US,Virginia,Richmond,2018-10-02T08:00:00Z,pm25,10.8,µg/m,37.55652,-77.40027,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Virginia Dept. of Environmental Quality""}]"
+US,Virginia,Richmond,2019-10-02T08:00:00Z,pm25,12.7,µg/m,37.55652,-77.40027,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Virginia Dept. of Environmental Quality""}]"
+US,Virginia,Richmond,2020-10-02T00:00:00Z,pm25,7.4,µg/m,37.55652,-77.40027,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Virginia Dept. of Environmental Quality""}]"
+US,Washington,Seattle,2018-10-02T08:00:00Z,pm25,2.2,µg/m,48.246799,-121.603104,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Washington Department of Ecology""}]"
+US,Washington,Seattle,2019-10-02T08:00:00Z,pm25,7,µg/m,48.246799,-121.603104,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Washington Department of Ecology""}]"
+US,Washington,Seattle,2020-10-02T08:00:00Z,pm25,33,µg/m,48.246799,-121.603104,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Washington Department of Ecology""}]"
+US,West Virginia,,,,,,,,
+US,Wisconsin,Madison,2018-10-02T09:00:00Z,pm25,4,µg/m,43.809486,-111.800475,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Idaho Department of Environmental Quality""}]"
+US,Wisconsin,Madison,2019-10-02T21:00:00Z,pm25,5.8,µg/m,43.809486,-111.800475,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Idaho Department of Environmental Quality""}]"
+US,Wisconsin,Madison,2020-10-01T16:00:00Z,pm25,8.8,µg/m,43.809486,-111.800475,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Idaho Department of Environmental Quality""}]"
+US,Wyoming,Cheyenne,2018-10-02T17:00:00Z,pm25,3,µg/m,41.18222,-104.778336,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Wyoming Department of Environmental Quality""}]"
+US,Wyoming,Cheyenne,2019-10-02T12:00:00Z,pm25,4,µg/m,41.18222,-104.778336,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Wyoming Department of Environmental Quality""}]"
+US,Wyoming,Cheyenne,2020-10-02T04:00:00Z,pm25,7,µg/m,41.18222,-104.778336,"[{""url"":""http://www.airnow.gov/"",""name"":""US EPA AirNow""},{""name"":""Wyoming Department of Environmental Quality""}]"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
