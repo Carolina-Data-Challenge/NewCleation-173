@@ -9,7 +9,7 @@ Specifically, to submit your project you will be required to complete the follow
 
 ---
 
-**PASTE PUBLIC VIDEO LINK HERE: ___________________________**
+**PASTE PUBLIC VIDEO LINK HERE: https://youtu.be/Jsl-bg0gOqY**
 
 [Rockville, MD Dashboard](https://public.tableau.com/profile/ivvone#!/vizhome/AirPollutioninRockvilleMD/Dashboard1) 
 
