@@ -10,7 +10,9 @@ Specifically, to submit your project you will be required to complete the follow
 ---
 
 **PASTE PUBLIC VIDEO LINK HERE: ___________________________**
+
 [Rockville, MD Dashboard](https://public.tableau.com/profile/ivvone#!/vizhome/AirPollutioninRockvilleMD/Dashboard1) 
+
 [California Wildfire Dashboard](https://public.tableau.com/profile/ivvone#!/vizhome/AirPollutantsinCalifornia2020/Dashboard1) 
 ---
 
