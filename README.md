@@ -17,6 +17,11 @@ Specifically, to submit your project you will be required to complete the follow
 
 [Charlotte, NC Dashboard](https://public.tableau.com/profile/haritha.mohan#!/vizhome/AirPollutionCDC/Dashboard1) 
 
+[San Francisco, CA Wildfire Dashboard](https://public.tableau.com/profile/alisha7521#!/vizhome/SanFran2018vs2020/Dashboard1) 
+
+[Mumbai, India Dashboard](https://public.tableau.com/profile/alisha7521#!/vizhome/MumbaiAirPollutionCovid/Dashboard1) 
+
+
 ---
 
 If you have any questions during the, either technical or logistical, be sure to reach out to a mentor and/or a director for assistance!
